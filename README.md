@@ -4,7 +4,7 @@ Short URL creator made with Javascript and PHP
 
 ### To install and run
 
-Create .htaccess on same folder to change Rewrite Rule of browser adress bar
+Create .htaccess in same dir to add Rewrite Rule for browser´s adress bar
 
 ```
 RewriteEngine On
