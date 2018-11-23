@@ -39,8 +39,8 @@ function send_request(longurl,random) {
         longurl: this.longurl,
         random: this.random 
     }, function(data, textStatus, xhr) {
-        url = 'geobon.org/t/'+data;
-        $('#tiny-url').html("The following URL:<br>"+longurl+"<br><br>resulted in the following short URL:<br><br><b><a href='https://geobon.org/t/"+data+"' target='_blank'>"+url+"</a></b>");
+        url = 'your-page.com/'+data;
+        $('#tiny-url').html("The following URL:<br>"+longurl+"<br><br>resulted in the following short URL:<br><br><b><a href='https://your-page.com/"+data+"' target='_blank'>"+url+"</a></b>");
     });
 }; 
 

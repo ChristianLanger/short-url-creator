@@ -17,10 +17,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="GEO BON Short URL Creator">
+    <meta name="description" content="Short URL Creator">
     <meta name="author" content="Christian Langer">
     <link rel="icon" type="image/png" href="./favicon.png" sizes="32x32" />
-    <title>GEO BON Short URL Creator</title>
+    <title>Short URL Creator</title>
     <!-- Bootstrap core CSS -->
     <link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome CSS -->
